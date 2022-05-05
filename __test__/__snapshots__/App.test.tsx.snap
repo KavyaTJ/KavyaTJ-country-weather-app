@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App Router snapshot testing 1`] = `
+<input
+  class="inputField"
+  placeholder="Enter the country name"
+/>
+`;
